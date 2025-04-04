@@ -12,7 +12,8 @@ body {
     text-align: center;
     height: 100vh;
     width: 100vw;
-    background-image: url(https://.photos/1920/1080);
+    background: rgb(38,67,253);
+    background: radial-gradient(circle, rgba(38,67,253,1) 0%, rgba(148,187,233,1) 57%);
 }
 
 .main {
